@@ -2,7 +2,7 @@
 
 *ADLER BARTLO KONESKI : https://github.com/Adler-koneski/segunda-guerra/blob/main/README.md
 
-*IGOR LEANDRO MARTINS DE SOUZA : 
+*IGOR LEANDRO MARTINS DE SOUZA : https://github.com/igao009/projeto_Segundaguerramundial?tab=readme-ov-file#projeto_segundaguerramundial
 
 *MATHEUS HENRIQUE PEREIRA GANGINI : https://github.com/Mathhp21/Trabalho/blob/main/readme.md
 
